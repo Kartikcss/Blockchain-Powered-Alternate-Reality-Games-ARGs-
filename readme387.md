@@ -5,6 +5,8 @@ This project leverages blockchain technology to power Alternate Reality Games (A
 
 ## Contract Address
 0xdE6eaA20262Ec65B869a12074bDDa65d05c668da
+![image](https://github.com/user-attachments/assets/0bd1cc21-ec25-4a3f-8ee8-c9810af90b69)
+
 
 ## Project Vision
 Our vision is to create a decentralized platform for immersive gaming experiences where players interact with real-world challenges and earn tangible rewards. By integrating blockchain, we aim to provide transparency, fairness, and ownership to all participants.
